@@ -1,22 +1,16 @@
-Robot & Game Project Licensing Terms
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
 Copyright (c) 2026 Made
 
-This project is released under a Non-Commercial, Free-to-Use License. 
+You are free to:
+- Share — copy and redistribute the material in any medium or format.
+- Adapt — remix, transform, and build upon the material.
 
-YOU ARE FREE TO:
-- Download, build, play, and run this project.
-- Modify the 3D models, code, CAD/circuit designs, or physical components for personal use.
-- Share your modified versions of the project, provided you use these exact same terms.
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- NonCommercial — You may not use the material for commercial purposes (including selling 3D prints, physical kits, or digital files).
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-RESTRICTIONS (WHAT YOU CANNOT DO):
-1. Non-Commercial: You may NOT sell, rent, lease, or monetize this project, its code, 
-   its 3D models, or any modified versions for commercial gain or monetary profit.
-2. Attribution: You must give original credit to Made 
-   in any project documentation, social posts, or re-shared files.
-3. Share-Alike: Any modified hardware, 3D models, or code based on this project 
-   must be released under these exact same non-commercial terms.
-
-DISCLAIMER:
-THIS PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE CREATOR IS NOT 
-LIABLE FOR ANY DAMAGES, PHYSICAL INJURIES, OR LOSSES RESULTING FROM THE USE 
-OR OPERATION OF THIS SOFTWARE OR HARDWARE.
+Full license legal code available at:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
