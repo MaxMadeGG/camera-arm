@@ -1,0 +1,11 @@
+Item,Qty,Part,Specification,Notes
+1,3,M5 screw,M5,
+2,3,M5 bolt,M5,
+3,1,M8 screw,M8,
+4,1,M8 bolt,M8,
+5,1,M6 screw,M6,"Mounts the camera; exact size depends on which camera you use"
+6,1,M4 screw,M4,"Listed in source as ""1x M4 screw and bolt"""
+7,1,M4 bolt,M4,"Listed in source as ""1x M4 screw and bolt"""
+8,1,Aluminium tube,Ø 20 mm,
+9,1,Plastic tube,Ø 33 mm,
+10,1,Webcam,Logitech HD Pro Webcam C920,"Any other webcam works, but item 5 (M6 screw) may need to change"
